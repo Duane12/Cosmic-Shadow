@@ -63,10 +63,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Attackbehaviour.cs" />
-    <Compile Include="Assets\EnemySpawner.cs" />
+    <Compile Include="Assets\Bullet.cs" />
+    <Compile Include="Assets\EnemyHealth.cs" />
     <Compile Include="Assets\JumpBehaviour.cs" />
     <Compile Include="Assets\LandBehaviour.cs" />
-    <Compile Include="Assets\Scripts\bullet.cs" />
+    <Compile Include="Assets\Scripts\Enemy health.cs" />
     <Compile Include="Assets\Scripts\Enemy.cs" />
     <Compile Include="Assets\Scripts\ExtensionMethods.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
