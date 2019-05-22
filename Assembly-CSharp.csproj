@@ -65,7 +65,7 @@
     <Compile Include="Assets\Attackbehaviour.cs" />
     <Compile Include="Assets\JumpBehaviour.cs" />
     <Compile Include="Assets\LandBehaviour.cs" />
-    <Compile Include="Assets\LevelControll.cs" />
+    <Compile Include="Assets\levelcontrol3.cs" />
     <Compile Include="Assets\Scripts\Bullet.cs" />
     <Compile Include="Assets\Scripts\Coin.cs" />
     <Compile Include="Assets\Scripts\Enemy health.cs" />
@@ -73,6 +73,7 @@
     <Compile Include="Assets\Scripts\ExtensionMethods.cs" />
     <Compile Include="Assets\Scripts\Health.cs" />
     <Compile Include="Assets\Scripts\LevelControl.cs" />
+    <Compile Include="Assets\Scripts\LevelControll.cs" />
     <Compile Include="Assets\Scripts\MusicTransition.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\RestartButton.cs" />
