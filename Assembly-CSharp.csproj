@@ -63,17 +63,19 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Attackbehaviour.cs" />
-    <Compile Include="Assets\EnemyHealth.cs" />
     <Compile Include="Assets\JumpBehaviour.cs" />
     <Compile Include="Assets\LandBehaviour.cs" />
     <Compile Include="Assets\Scripts\Bullet.cs" />
     <Compile Include="Assets\Scripts\Enemy health.cs" />
     <Compile Include="Assets\Scripts\Enemy.cs" />
     <Compile Include="Assets\Scripts\ExtensionMethods.cs" />
+    <Compile Include="Assets\Scripts\Health.cs" />
+    <Compile Include="Assets\Scripts\LevelControl.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\RestartButton.cs" />
     <Compile Include="Assets\Scripts\sceneswitch.cs" />
     <Compile Include="Assets\Scripts\weapon.cs" />
+    <Compile Include="Assets\Warped Caves\Scenes\EnemyHealth.cs" />
     <None Include="Assets\BayatGames\Free Platform Game Assets\Readme.txt" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/Duane Bugeja/Documents/Project Assignment/Duane bugeja 4.2B project Game/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
